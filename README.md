@@ -29,11 +29,5 @@ After each move, a new tile (with a value of 2) is added to a random empty posit
 
 python main.py
 
-## Example
-
-Here's an example of what the board might look like after some moves:
-
-+----+----+----+----+ | | 2 | | | +----+----+----+----+ | | | | | +----+----+----+----+ | | 4 | 2 | | +----+----+----+----+ | | | | | +----+----+----+----+
-
 ## Enjoy the game~!!!
 
